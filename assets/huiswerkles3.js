@@ -1,5 +1,5 @@
 //Opdracht 1:
-let number = 5;
+let number = 10;
 const evenOrOdd = number % 2;
 if(evenOrOdd === 1){
     console.log('odd');
