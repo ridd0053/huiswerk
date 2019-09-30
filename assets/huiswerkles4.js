@@ -36,7 +36,7 @@ switch(true){
 /*variabelen van 
 opdracht 3*/ 
 const purchasedBook = true;
-const job = 'teacher';
+const job = 'teache';
 let inTrain = true;
 /*if else 
 voor opdracht 3*/ 
